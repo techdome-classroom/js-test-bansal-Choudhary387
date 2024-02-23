@@ -2,10 +2,7 @@
  * @param {string} s
  * @return {number}
  */
-/**
- * @param {string} s
- * @return {number}
- */
+/*
 function consistsOnlyOfZeros(s) {
 
     if (s.length === 0) {
